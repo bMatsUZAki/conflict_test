@@ -2,3 +2,5 @@
 コンフリクトの
 testです
 bbb
+
+CONFLICT
